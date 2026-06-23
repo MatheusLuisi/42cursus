@@ -10,7 +10,7 @@ My progress through the [42 São Paulo](https://www.42sp.org.br/) curriculum.
 
 | Project | Status | Language | Link |
 |---------|--------|----------|------|
-| Libft | ✅ 100/100 | C | - |
+| Libft | ✅ 100/100 | C | [Libft](https://github.com/MatheusLuisi/Libft) |
 
 ### Milestone 1
 
