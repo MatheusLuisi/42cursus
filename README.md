@@ -16,17 +16,17 @@ My progress through the [42 São Paulo](https://www.42sp.org.br/) curriculum.
 
 | Project | Status | Language | Link |
 |---------|--------|----------|------|
-| ft_printf | ✅ 100/100 | C | - |
-| get_next_line | In Progress | C | - |
-| push_swap | In Progress | C | - |
+| ft_printf | ✅ 100/100 | C | [ft_printf](https://github.com/MatheusLuisi/ft_printf) |
+| get_next_line | ✅ 100/100| C | [GNL](https://github.com/MatheusLuisi/GNL/) |
+| push_swap | ✅ 100/100| C | [PushSwap](https://github.com/joaozinhom/pushswap) |
 
 ### Milestone 2
 
 | Project | Status | Language | Link |
 |---------|--------|----------|------|
 | Python Modules | in Progess | Python |[Modules](https://github.com/MatheusLuisi/python_modules)|
-| Born2beroot | ...  | Linux | - |
-| A-Maze-ing | ...  | - | - |
+| Born2beroot | ✅ 100/100 | Linux | No link |
+| A-Maze-ing | ✅ 105/100| Python | [Amazing](https://github.com/joaozinhom/Amazing) |
 
 ### Milestone 3
 
@@ -69,7 +69,7 @@ My progress through the [42 São Paulo](https://www.42sp.org.br/) curriculum.
 
 ## Piscine Reloaded
 
-> ...
+> | [Piscine Reloaded](https://github.com/MatheusLuisi/Piscine-reloaded) |
 
 ---
 
