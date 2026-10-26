@@ -24,7 +24,7 @@ My progress through the [42 São Paulo](https://www.42sp.org.br/) curriculum.
 
 | Project | Status | Language | Link |
 |---------|--------|----------|------|
-| Python Modules | in Progess | Python |[Modules](https://github.com/MatheusLuisi/python_modules)|
+| Python Modules | in Progress | Python |[Modules](https://github.com/MatheusLuisi/python_modules)|
 | Born2beroot | ✅ 100/100 | Linux | No link |
 | A-Maze-ing | ✅ 105/100| Python | [Amazing](https://github.com/joaozinhom/Amazing) |
 
@@ -32,7 +32,7 @@ My progress through the [42 São Paulo](https://www.42sp.org.br/) curriculum.
 
 | Project | Status | Language | Link |
 |---------|--------|----------|------|
-| Fly-in | ... | - | - |
+| Fly-in | in Progress | Python | [Fly-in](https://github.com/MatheusLuisi/fly-in) |
 | Codexion | ... | - | - |
 | Call Me Maybe | ...  | - | - |
 
